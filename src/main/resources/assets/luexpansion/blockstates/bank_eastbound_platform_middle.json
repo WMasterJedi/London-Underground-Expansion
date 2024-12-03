@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "luexpansion:block/bank_eastbound_platform_middle", "uvlock": false },
+    "facing=east":  { "model": "luexpansion:block/bank_eastbound_platform_middle", "y":  90, "uvlock": false },
+    "facing=south": { "model": "luexpansion:block/bank_eastbound_platform_middle", "y": 180, "uvlock": false },
+    "facing=west":  { "model": "luexpansion:block/bank_eastbound_platform_middle", "y": 270, "uvlock": false }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "luexpansion",
+  "version": "${version}",
+
+  "name": "London Underground Expansion",
+  "description": "Expansion to the London Underground Addon by Tinblue",
+  "authors": [
+    "JellyBeanJedi"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/luexpansion/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.william.luexpansion.LUExpansion"
+    ],
+    "client": [
+      "net.william.luexpansion.LUExpansionClient"
+    ]
+  },
+  "mixins": [
+    "luexpansion.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.19",
+    "fabric-api": "*",
+    "minecraft": "~1.19.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

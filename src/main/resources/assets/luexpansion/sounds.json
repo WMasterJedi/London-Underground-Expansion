@@ -1,0 +1,26 @@
+{
+  "central_bank_next": {
+    "subtitle": "sounds.luexpansion.central_bank_next",
+    "sounds": [
+      "luexpansion:central/bank/next"
+    ]
+  },
+  "central_bank_this": {
+    "subtitle": "sounds.luexpansion.central_bank_this",
+    "sounds": [
+      "luexpansion:central/bank/this"
+    ]
+  },
+  "central_liverpool_street_next": {
+    "subtitle": "sounds.luexpansion.central_liverpool_street_next",
+    "sounds": [
+      "luexpansion:central/liverpool_street/next"
+    ]
+  },
+  "central_liverpool_street_this": {
+    "subtitle": "sounds.luexpansion.central_liverpool_street_this",
+    "sounds": [
+      "luexpansion:central/liverpool_street/this"
+    ]
+  }
+}

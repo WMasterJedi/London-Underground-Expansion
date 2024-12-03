@@ -1,0 +1,6 @@
+{
+    "name": "eyecandy.mtrsteamloco.Bank Square Box",
+    "model": "mtrsteamloco:eyecandies/ban_square_box/ban_square_box.obj",
+    "scale": [ 1.0, 1.0, 1.0 ],
+    "repeatInterval": 0.7
+}

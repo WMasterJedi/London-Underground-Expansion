@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "luexpansion:block/bank_ceiling_light", "uvlock": true },
+    "facing=east":  { "model": "luexpansion:block/bank_ceiling_light", "y":  90, "uvlock": true },
+    "facing=south": { "model": "luexpansion:block/bank_ceiling_light", "y": 180, "uvlock": true },
+    "facing=west":  { "model": "luexpansion:block/bank_ceiling_light", "y": 270, "uvlock": true }
+  }
+}

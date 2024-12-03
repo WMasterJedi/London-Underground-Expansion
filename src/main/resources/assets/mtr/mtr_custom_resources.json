@@ -1,0 +1,25 @@
+{
+	"custom_trains": {
+		"london_underground_1995_roundel_sounds": {
+			"name": "London Underground 1995 Stock (Roundel Variant, New Sounds)",
+			"color": "0x333333",
+			"base_train_type": "london_underground_1995",
+			"texture_id": "mtr:custom_textures/london_underground_1995.png",
+			"bve_sound_base_id" : "london_underground_1995_sounds"
+		},
+		"london_underground_1996_roundel_sounds": {
+			"name": "London Underground 1996 Stock (Roundel Variant, New Sounds)",
+			"color": "0x333333",
+			"base_train_type": "london_underground_1996",
+			"texture_id": "mtr:custom_textures/london_underground_1996.png",
+			"bve_sound_base_id" : "london_underground_1996_sounds"
+		},
+		"london_underground_1992_sounds": {
+			"name": "London Underground 1992 Stock (New Sounds)",
+			"color": "0x333333",
+			"base_train_type": "london_underground_1992",
+			"texture_id": "mtr:custom_textures/london_underground_1992_refit_texture.png",
+			"bve_sound_base_id" : "london_underground_1992_sounds"
+		}
+	}
+}

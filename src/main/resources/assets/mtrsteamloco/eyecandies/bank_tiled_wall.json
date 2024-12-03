@@ -1,0 +1,6 @@
+{
+    "name": "Bank Tiled Platform Wall",
+    "model": "mtrsteamloco:eyecandies/bank/platform_walls/bank_tiled_wall.obj",
+    "scale": [ 1.0, 1.0, 1.0 ],
+    "repeatInterval": 0.7
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Bank Ceiling with Fire Extinguisher Pole",
+    "model": "mtrsteamloco:eyecandies/bank/platform_walls/ceiling_fire_extinguisher_sign_pole.obj",
+    "scale": [ 1.0, 1.0, 1.0 ],
+    "repeatInterval": 0.7
+}

@@ -1,0 +1,642 @@
+{
+    "london_underground_1995_sounds_air": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/air",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_airzero": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/airzero",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_cpend": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/cpend",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_cploop": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/cploop",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_cpstart": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/cpstart",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/doorcls",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/dooropn",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_flange0": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/flange0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_loop": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/loop",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_motor0": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/motor0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_motor1": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/motor1",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_motor2": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/motor2",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_motor3": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/motor3",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_motor5": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/motor5",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_motor6": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/motor6",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_motor7": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/motor7",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_point": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/point",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_run0": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/run0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_run1": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/run1",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_run2": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/run2",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_run3": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/run3",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_run4": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/run4",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_run5": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/run5",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_run6": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/run6",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_sounds_run7": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995_sounds/run7",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1992_sounds_airhigh": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/airhigh",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1992_sounds_airzero": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/airzero",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1992_sounds_cp": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/cp",
+                "attenuation_distance": 10
+            }
+        ]
+    },
+    "london_underground_1992_sounds_cpoff": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/cpoff",
+                "attenuation_distance": 10
+            }
+        ]
+    },
+    "london_underground_1992_sounds_cpon": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/cpon",
+                "attenuation_distance": 10
+            }
+        ]
+    },
+    "london_underground_1992_sounds_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/doorcls",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1992_sounds_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/dooropn",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1992_sounds_flange": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/flange",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1992_sounds_loop": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/loop",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1992_sounds_motor0": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/motor0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1992_sounds_motor1": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/motor1",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1992_sounds_motor2": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/motor2",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1992_sounds_motor3": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/motor3",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1992_sounds_motor4": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/motor4",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1995_point": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1995/point",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1992_sounds_run0": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/run0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1992_sounds_run1": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/run1",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1992_sounds_run2": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/run2",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1992_sounds_run3": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/run3",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1992_sounds_run4": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/run4",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1992_sounds_run5": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1992_sounds/run5",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_air": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/air",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_airzero": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/airzero",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_cpend": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/cpend",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_cploop": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/cploop",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_cpstart": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/cpstart",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/doorcls",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/dooropn",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_loop": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/loop",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_motor0": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/motor0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_motor1": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/motor1",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_motor10": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/motor10",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_motor11": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/motor11",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_motor12": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/motor12",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_motor13": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/motor13",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_motor14": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/motor14",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_motor15": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/motor15",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_motor2": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/motor2",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_motor3": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/motor3",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_motor4": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/motor4",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_motor5": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/motor5",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_motor6": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/motor6",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_motor7": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/motor7",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_motor8": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/motor8",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_motor9": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/motor9",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_run0": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/run0",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_run1": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/run1",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_run2": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/run2",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_run3": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/run3",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_run4": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/run4",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_run5": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/run5",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_run6": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/run6",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_run7": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/run7",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_run8": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/run8",
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "london_underground_1996_sounds_run9": {
+        "sounds": [
+            {
+                "name": "mtr:london_underground_1996_sounds/run9",
+                "attenuation_distance": 32
+            }
+        ]
+    }
+}
